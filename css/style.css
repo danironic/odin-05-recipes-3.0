@@ -1,0 +1,62 @@
+* {
+  font-size: 20px;
+  font-family: "Vardana", "Tahoma", sans-serif;
+}
+
+#site-header {
+  font-size: 50px;
+  font-weight: 1000;
+  color: rgb(186, 189, 56);
+}
+
+a {
+  color: #23F;
+}
+
+.recipe-header {
+  font-size: 45px;
+}
+
+.desc-header {
+  font-size: 35px;
+}
+
+.sub-header {
+  font-size: 30px;
+  color: rgb(240, 80, 32);
+}
+
+.ingredients li {
+  font-family: "Courier New", monospace;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.steps {
+  background-color: rgb(146, 150, 88);
+  color: #69f319;
+}
+
+.steps li {
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+#burritos {
+  color: #96853d;
+}
+
+#oatmeal-cookies {
+  color: #b6a34e;
+}
+
+#tuna-casserole {
+  color: #dbcb35;
+}
+
+p,
+ol,
+ul {
+  width: 750px;
+}
+
+
