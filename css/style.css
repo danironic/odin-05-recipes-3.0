@@ -11,6 +11,7 @@
 #main-page ul {
   width: 100%;
   list-style: none;
+  margin-left: -40px;
 }
 
 #site-header {
@@ -72,4 +73,8 @@ ul {
 
 .recipe-links li {
   margin-bottom: 5px;
+}
+
+.recipe-img {
+  margin-left: 150px;
 }
