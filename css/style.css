@@ -5,6 +5,7 @@
 
 #main-page {
   text-align: center;
+  background-color: #94b9e4;
 }
 
 #main-page ul {
@@ -69,4 +70,6 @@ ul {
   width: 750px;
 }
 
-
+.recipe-links li {
+  margin-bottom: 5px;
+}
