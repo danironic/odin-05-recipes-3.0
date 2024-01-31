@@ -3,11 +3,21 @@
   font-family: "Vardana", "Tahoma", sans-serif;
 }
 
+#main-page {
+  text-align: center;
+}
+
+#main-page ul {
+  width: 100%;
+  list-style: none;
+}
+
 #site-header {
   font-size: 50px;
   font-weight: 1000;
   color: rgb(186, 189, 56);
 }
+
 
 a {
   color: #23F;
