@@ -3,6 +3,11 @@
   font-family: "Vardana", "Tahoma", sans-serif;
 }
 
+html {
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
 #main-page {
   text-align: center;
   background-color: #94b9e4;
