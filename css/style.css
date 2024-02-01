@@ -44,11 +44,27 @@ a {
   font-size: 18px;
 }
 
+.steps-burritos,
+.steps-oatmeal-cookies,
+.steps-tuna-casserole {
+  padding: 10px 15px;
+}
+
 .steps-burritos
  {
-  background-color: rgb(146, 150, 88);
+  background-color: #96853d;
   color: #69f319;
-  padding: 10px 15px;
+
+}
+
+.steps-oatmeal-cookies {
+  background-color: #b6a34e;
+  color: #eaeee8;
+}
+
+.steps-tuna-casserole {
+  background-color: #dbcb35;
+  color: #a56f0c;
 }
 
 .steps li {
