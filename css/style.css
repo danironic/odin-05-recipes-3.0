@@ -108,9 +108,27 @@ ul {
   width: 750px;
 }
 
-.recipe-links li {
+/* .recipe-links li {
   margin-bottom: 5px;
+} */
+
+.recipe-links li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 20px;
+  padding: 8px 12px;
+  background-color: #FFF;
+  border: 3px solid #AFAFAF;
+  border-radius: 10px;
 }
+
+.recipe-links li a {
+  color: #3a2f27;
+  text-decoration: none;
+}
+
+
+
 
 .recipe-img {
   margin-left: 150px;
