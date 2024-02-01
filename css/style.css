@@ -44,13 +44,16 @@ a {
   font-size: 18px;
 }
 
-.steps {
+.steps-burritos
+ {
   background-color: rgb(146, 150, 88);
   color: #69f319;
+  padding: 10px 15px;
 }
 
 .steps li {
   font-family: "Georgia", "Times New Roman", serif;
+  margin-left: 15px;
 }
 
 #burritos {
